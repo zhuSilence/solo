@@ -5,6 +5,8 @@
 
 
 ### 自定义端口启动
-增加启动参数
+#### 增加启动参数
 --listen_port=19090 --server_scheme=http --server_host=127.0.0.1 --server_port=19090 --static_server_scheme=http --static_server_host=127.0.0.1 --static_server_port=19090
 
+#### 下载皮肤存放到webapp/skins 目录下
+皮肤下载地址：https://github.com/b3log/solo-skins
